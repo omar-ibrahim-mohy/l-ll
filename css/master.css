@@ -1,0 +1,121 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-image:url("New Project 185 [E8478F2].png");
+    padding: 0px;
+    margin: 0px;
+}
+h1{
+    position: relative;
+    top: 20px;
+    left: 10px;
+}
+img{
+    position: relative;
+    left: 500px;
+}
+h2{
+    text-indent: 100px;
+    letter-spacing: 15px;
+    position: relative;
+    bottom: 400px;
+    left: 70px;
+    font-weight: bolder;
+    font-size: 60px;
+}
+.top-1{
+    text-indent: 100px;
+    letter-spacing: 5px;
+    position: relative;
+    bottom: 400px;
+    left: 160px;
+    font-size: 30px;
+}
+h3{
+    text-indent: 40px;
+    position: relative;
+    bottom: 300px;
+    font-size: 30px;
+    background-color: #8CE7C4;
+    display: inline-block;
+    padding: 5px;
+    width: 350px;
+    height: 40px;
+}
+.facebook{
+    text-indent: 100px;
+    letter-spacing: 5px;
+    position: relative;
+    bottom: 250px;
+    left: 40px;
+    font-size: 30px;
+    color: black;
+}
+.instagram{
+    text-indent: 100px;
+    letter-spacing: 5px;
+    position: relative;
+    bottom: 250px;
+    left: 80px;
+    font-size: 30px;
+    color: black;
+}
+.youtube{
+    text-indent: 100px;
+    letter-spacing: 5px;
+    position: relative;
+    bottom: 250px;
+    left: 120px;
+    font-size: 30px;
+    color: black;
+}
+.whatsapp{
+    text-indent: 100px;
+    letter-spacing: 5px;
+    position: relative;
+    bottom: 250px;
+    left: 160px;
+    font-size: 30px;
+    color: black;
+}
+a:hover{
+    color: red;
+    font-size: 40px;
+}
+a:visited{
+    color: blue;
+}
+.top-2{
+    text-indent: 20px;
+    letter-spacing: 5px;
+    position: relative;
+    bottom: 170px;
+    font-size: 25px;
+    background-color: #8CE7C4;
+    padding: 5px;
+    width: 1300px;
+    height: 50px;
+}
+.fas{
+    letter-spacing: 5px;
+    position: relative;
+    bottom:225px;
+    left: 620px;
+    font-size: 20px;
+}
+.ins{
+    letter-spacing: 5px;
+    position: relative;
+    bottom:225px;
+    left: 680px;
+    font-size: 20px;
+}
+.wha{
+    letter-spacing: 5px;
+    position: relative;
+    bottom:225px;
+    left: 740px;
+    font-size: 20px;
+}
